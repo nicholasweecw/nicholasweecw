@@ -1,7 +1,6 @@
 <img src='res/github-header-image-3.png' width=1200></img>
 <h3>About me</h3>
 <p align="left">I’m an undergraduate student in NTU pursuing Computer Science. Through the use of programming languages I am able to create an effective user experience. I wish to make a positive impact in peoples’ lives through technology.</p>
-<img align='right' alt='Coding' width='380' src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholasweecw&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasweecw" /> </p>
 
