@@ -1,5 +1,4 @@
 <img src='res/github-header-image-2.png' width=1200></img>
-<h1 align="center">👋 Hey there! I'm Nicholas Wee</h1>
 <h3>About me</h3>
 <p align="left">I’m an undergraduate student in NTU pursuing Computer Science. Through the use of programming languages I am able to create an effective user experience. I wish to make a positive impact in peoples’ lives through technology.</p>
 <img align='right' alt='Coding' width='400' src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
