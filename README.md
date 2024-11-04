@@ -1,6 +1,6 @@
 <img src='res/github-header-image-5.png' width=1200></img>
 <h3>About me</h3>
-<p align="left">I’m an undergraduate student in NTU pursuing Computer Science. Through the use of programming languages I am able to create an effective user experience. I wish to make a positive impact in peoples’ lives through technology.</p>
+<p align="left">I’m a Final Year undergraduate student in NTU pursuing Computer Science. Through the use of programming languages I am able to create an effective user experience. I wish to make a positive impact in peoples’ lives through technology.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholasweecw&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasweecw" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **nicholasweecw90@gmail.com**
 
